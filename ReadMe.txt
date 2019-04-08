@@ -1,6 +1,6 @@
-Modified Proto-Object Based Visual Saliency Model (MATLAB code)
+﻿Modified Proto-Object Based Visual Saliency Model (MATLAB code)
 
-This model is a slightly modified version of Russel et al.
+This model is a slightly modified version of Russell et al.
 The border ownership calculation is changed to reduce false activities along the image boundaries.
 The detail is written in T. Uejima, E. Niebur, and R. Etienne-Cummings. "Proto-Object Based Saliency Model with Second-Order Texture Feature", BioCAS2018.
 
